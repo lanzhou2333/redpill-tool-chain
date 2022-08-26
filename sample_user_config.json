@@ -2,6 +2,8 @@
     "extra_cmdline": {
         "pid": "0x0001",
         "vid": "0x46f4",
+        "SataPortMap": "2",
+        "DiskIdxMap": "00",
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY"
     },

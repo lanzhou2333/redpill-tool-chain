@@ -1,13 +1,19 @@
 {
     "extra_cmdline": {
-        "pid": "0x0001",
-        "vid": "0x46f4",
+        "pid": "0x88AA",
+        "vid": "0x88AA",
         "SataPortMap": "2",
         "DiskIdxMap": "00",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "sn": "1430LWN022269",
+        "mac1": "0011323D47F0",
+	      "mac2": "0011323D47F1",
+	      "netif_num": 2
     },
-    "synoinfo": {},
+    "synoinfo": {
+	      "maxlanport": "2",
+        "usbportcfg": "0",
+        "internalportcfg":"0xFFFF"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }

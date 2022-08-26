@@ -10,9 +10,9 @@
 	      "netif_num": 2
     },
     "synoinfo": {
-	      "maxlanport": "2",
-        "usbportcfg": "0",
-        "internalportcfg":"0xFFFF"
+      "maxlanport": "2",
+      "usbportcfg": "0",
+      "internalportcfg":"0xFFFFFF"
     },
     "ramdisk_copy": {},
     "extensions": []
